@@ -1,0 +1,14 @@
+@use '../abstracts/' as *;
+
+:root{
+    --bg-color: #{bg};
+    --border-badge: #{$border-badge};
+    --card-automation-color: #{$card-automation};
+    --card-context-color: #{$card-context};
+    --card-simplicity-color: #{$card-simplicity};
+    --font-white: #{$text};
+    --font-family: #{$font};
+    --footer-bg-color: #{$footer};
+    --heading-text-color: #{$heading-text};
+    --primary-color: #{$primary};
+}

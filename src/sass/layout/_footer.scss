@@ -1,0 +1,27 @@
+footer{
+    background-color: var(--footer-bg-color);
+
+
+    .footer__wrapper{
+        width: 80%;
+        margin-inline: auto;
+        padding-block: 2rem;
+
+        .footer__wrapper--img{
+            min-width: 3rem;
+            max-width: 3rem;
+        }
+
+        .footer__wrapper--text{
+            max-width: 25rem;
+        }
+
+       
+    }
+
+    .footer__wrapper--copyright{
+            padding-bottom: 1rem;
+            width: 80%;
+            margin-inline: auto;
+    }
+}

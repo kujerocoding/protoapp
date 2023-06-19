@@ -1,0 +1,45 @@
+@media(min-width: 640px){
+    .hero__wrapper--heading{
+        p{
+            width: 60%;
+        }
+    }
+
+    .uppermain__heading {
+        p {
+            width: 70%;
+        }
+    }
+
+    .flex__card{
+       flex-direction: row !important;
+    }
+
+    .card__wrapper{
+        max-width: fit-content;
+    }
+
+    .card__wrapper--text{
+        max-width: 13rem;
+    }
+
+}
+
+@media(min-width: 1024px){
+    .hero__wrapper--heading {
+        p{
+            width: 45%;
+        }
+    }
+
+    .uppermain__heading {
+        p{
+            width: 60%;
+        }
+    }
+
+    .bottom__wrapper--card{
+        display: flex;
+        gap: 1rem;
+    }
+}

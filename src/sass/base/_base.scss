@@ -1,0 +1,13 @@
+@use '../abstracts/' as *;
+@use './root';
+
+body{
+  background-color: var(--bg-color);
+  font-family: var(--font-family);
+
+}
+
+#app{
+  max-width: 1366px;
+  margin-inline: auto;
+}

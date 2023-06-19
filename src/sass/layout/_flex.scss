@@ -1,0 +1,55 @@
+.flex{
+    display: flex;
+    gap: 1rem;
+}
+
+.flex--center{
+    display: flex;
+    align-items: center;
+}
+
+.flex--end{
+    display: flex;
+    align-items: end;
+}
+
+.flex__feature{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    text-align: right;
+}
+
+.flex__feature--reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.flex__lowermain--card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.flex__card{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 2rem;
+}
+
+.flex__card--text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.flex__footer{
+    display: flex;
+    gap: 1rem;
+}

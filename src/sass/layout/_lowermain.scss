@@ -1,0 +1,32 @@
+.lowermain__wrapper{
+    position: relative;
+    border: 1px solid black;
+
+    .lowermain__top{
+        padding-block: 8rem;
+        background-color: var(--primary-color);
+
+        .top__wrapper--heading{
+            margin-bottom: 4rem;
+        }
+
+        .top__wrapper--decal{
+            position: absolute;
+            top: -2rem;
+            right: 0;
+        }
+    }
+
+    .lowermain__bottom{
+        width: 80%;
+        margin-inline: auto;
+
+        .bottom__wrapper--heading{
+            margin-block: 3rem;
+        }
+
+    }
+
+    
+
+}
