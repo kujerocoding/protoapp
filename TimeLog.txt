@@ -1,0 +1,54 @@
+1.0 create vue app using vite
+1.1 delete boiler plate
+1.2 copy assets
+June 18, 2023 5PM - 5:30PM -- 30mins
+
+2.0 install sass package
+2.1 create sass folder structure
+2.2 add color and font variables ( use online color and font picker )
+2.3 Test if the style is working using sass
+June 18, 2023 5:30PM - 6:30PM -- 60mins
+
+
+3.0 create navbar component
+3.1 add contents
+3.2 add styles
+June 18, 2023 6:30PM - 7:30PM -- 60mins
+
+5.0 create badge button
+5.1 add contents
+5.2 add styles
+June 18, 2023 7:30PM - 7:50PM -- 20mins
+
+6.0 create hero component
+6.1 add contents
+6.3 add styles
+June 18, 2023 7:50PM - 9:50PM -- 120mins
+
+7.0 create uppermain component
+7.1 add contents
+7.2 add styles
+June 18, 2023 9:50PM - 10:50PM -- 60mins
+
+8.0 create feature component
+8.1 add contents
+8.2 add styles
+June 19, 2023 7:00AM - 8:00AM -- 60mins
+
+9.0 create lowermain component
+9.1 add contents
+9.2 add styles
+June 19, 2023 8:00AM - 9:40AM -- 100mins
+
+10.0 create card component 10
+10.1 add contents
+10.2 add styles
+June 19, 2023 9:40AM - 10:40AM -- 60mins
+
+11.0 create footer component
+11.1 add contents
+11.2 add styles
+June 19, 2023 10:40AM - 11:00AM -- 20mins
+
+Clean and finalize code
+June 19, 2023 11:00AM - 12:00NN -- 60mins
